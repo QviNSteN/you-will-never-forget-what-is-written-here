@@ -8,7 +8,7 @@ using HtmlAgilityPack;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 
-namespace M13.InterviewProject.Controllers
+namespace MY_NAME_IS_PROJECT.Controllers
 {
     /// <summary>
     /// sample usage:
